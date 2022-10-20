@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![@latra's Holopin board](https://holopin.me/latra)](https://holopin.io/@latra)
 
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=latra&show_icons=true&theme=react">
