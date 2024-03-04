@@ -18,7 +18,7 @@
   </tr>
   <tr>
     <td>
-      📚 Trying to <a htrf="https://deidd.udl.cat/ca/personal/personal-docent/detall-professor/index.html?enc=NDcxMjg3ODQ=>"teach how networking is supposed to work</a>.
+      📚 Trying to <a htrf="https://deidd.udl.cat/ca/personal/personal-docent/detall-professor/index.html?enc=NDcxMjg3ODQ=">teach how networking is supposed to work</a>.
     </td>
   </tr>
   <tr>
