@@ -18,16 +18,16 @@
   </tr>
   <tr>
     <td>
-      📚 Trying to teach how networking is supposed to work
+      📚 Trying to <a href="https://deidd.udl.cat/ca/personal/personal-docent/detall-professor/index.html?enc=NDcxMjg3ODQ=">teach how networking is supposed to work</a>.
     </td>
   </tr>
   <tr>
     <td>
-      🤖 Researcher at the <a href="https://eurecat.org/">Technology Centre of Catalonia</i></a> 
+      🤖 Researcher at the <a href="https://eurecat.org/">Technology Centre of Catalonia</i></a>. 
     </td>
   </tr>  <tr>
     <td>
-      🔨 Doing random stuff for <a href="https://twithc.tv/w2atv">W2A TV</a>
+      🔨 Doing random stuff for <a href="https://twithc.tv/w2atv">W2A TV</a>.
     </td>
   </tr>
   <tr>
