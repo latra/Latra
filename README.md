@@ -27,7 +27,7 @@
     </td>
   </tr>  <tr>
     <td>
-      🔨 Doing random stuff for <a href="https://twithc.tv/w2atv">W2A TV</a>.
+      🔨 Doing random stuff for <a href="https://twitch.com/w2atv">W2A TV</a>.
     </td>
   </tr>
   <tr>
