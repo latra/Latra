@@ -23,7 +23,7 @@
   </tr>
   <tr>
     <td>
-      🤖 Researcher at the <a href="https://eurecat.org/">Technology Centre of Catalonia</i></a>. 
+      🤖 Researcher at the <a href="[https://eurecat.org/](https://github.com/Applied-Artificial-Intelligence-Eurecat)">Technology Centre of Catalonia</i></a>. 
     </td>
   </tr>  <tr>
     <td>
